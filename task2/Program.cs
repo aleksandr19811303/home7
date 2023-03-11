@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 56 Задайте прямоугольный двумерный массив. 
+// Напишите программу, которая будет находить строку с наименьшей суммой элементов.
 Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
 int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
